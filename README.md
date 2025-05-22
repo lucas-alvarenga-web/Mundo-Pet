@@ -23,7 +23,7 @@ desenvolvido pelo SENAI PLAY e adaptado para ser responsivo
 ---
 
 ## ��️ Prints do site (inserir abaixo):
-![Print da página inicial](img/print-home.png)
-![Print da loja](img/print-sobre.png)
-![Print da loja](img/print-loja.png)
-![Print da loja](img/print-contato.png)
+![Print da página inicial](media/img/print-home.png)
+![Print da loja](media/img/print-sobre.png)
+![Print da loja](media/img/print-loja.png)
+![Print da loja](media/img/print-contato.png)
